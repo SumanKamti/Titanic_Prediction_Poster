@@ -31,7 +31,3 @@ if st.button('Predict'):
     st.write(f'The model predicts: {result}')
 st.write("Developed by Suman")
 
-# Optionally show the input features
-st.write('Input features:')
-st.write(features)
-
